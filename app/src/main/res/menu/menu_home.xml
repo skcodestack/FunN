@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      >
+
+    <item
+        android:id="@+id/action_person"
+        android:title="1"
+        android:orderInCategory="100"
+        android:icon="@drawable/person_icon03"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_about_us"
+        android:title="关于我们"
+        android:orderInCategory="200"
+        app:showAsAction="never"/>
+
+    <!--<item-->
+        <!--android:id="@+id/action_feedback"-->
+        <!--android:title="test"-->
+        <!--android:orderInCategory="300"-->
+        <!--android:visible="false"-->
+        <!--app:showAsAction="never"/>-->
+</menu>

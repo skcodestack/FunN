@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="news_category_list_name">
+        <!--<item>最新推荐</item>-->
+        <item>段子手</item>
+        <item>搞笑</item>
+        <item>清纯妹子</item>
+        <item>性感美女</item>
+        <item>动态图</item>
+        <item>邪恶图片</item>
+    </array>
+    <array name="news_category_list_index">
+        <!--<item>0</item>-->
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </array>
+    <array name="news_category_list_path">
+        <!--<item>hot</item>-->
+        <item>word</item>
+        <item>img</item>
+        <item>pure</item>
+        <item>hot</item>
+        <item>gif</item>
+        <item>evil</item>
+    </array>
+    <array name="news_category_list_remark">
+        <!--<item>最新推荐</item>-->
+        <item>文本笑话</item>
+        <item>图片笑话</item>
+        <item>图片</item>
+        <item>图片</item>
+        <item>动态图</item>
+        <item>邪恶图片</item>
+    </array>
+</resources>

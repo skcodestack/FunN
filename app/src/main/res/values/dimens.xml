@@ -1,0 +1,47 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="indicator_height">2dp</dimen>
+
+    <dimen name="one_px">1px</dimen>
+
+    <dimen name="splash_bottom_padding">10dp</dimen>
+    <dimen name="splash_middle_top_margin">10dp</dimen>
+    <dimen name="splash_bottom_margin">40dp</dimen>
+    <dimen name="splash_top_margin">130dp</dimen>
+
+    <dimen name="slidingtab_height">45dp</dimen>
+    <dimen name="fragment_common_list_smart_tab_padding">20dp</dimen>
+    <dimen name="fragment_common_list_smart_tab_indicator_height">3dp</dimen>
+    <dimen name="fragment_common_list_smart_tab_indicator_radius">2dp</dimen>
+
+    <dimen name="list_item_news_list_padding_top_bottom">8dp</dimen>
+    <dimen name="list_item_news_list_padding_left_right">12dp</dimen>
+    <dimen name="list_item_news_list_margin">5dp</dimen>
+    <dimen name="list_item_news_list_head_height">60dp</dimen>
+
+
+    <dimen name="qrcode_crop_width">200dp</dimen>
+    <dimen name="qrcode_crop_height">200dp</dimen>
+
+    <dimen name="barcode_crop_width">260dp</dimen>
+    <dimen name="barcode_crop_height">140dp</dimen>
+
+    <dimen name="imageview_min_width">180dp</dimen>
+    <dimen name="imageview_min_height">180dp</dimen>
+    <dimen name="imageview_max_height">220dp</dimen>
+    <dimen name="gif_hint_padding">5dp</dimen>
+    <dimen name="gif_hint_height">30dp</dimen>
+
+    <dimen name="head_icon_width">50dp</dimen>
+    <dimen name="user_info_margin">10dp</dimen>
+    <dimen name="share_height">35dp</dimen>
+    <dimen name="share_icon_height">15dp</dimen>
+
+    <dimen name="load_more_height">50dp</dimen>
+    <dimen name="cardMarginHorizontal">10dp</dimen>
+    <dimen name="cardMarginVertical">8dp</dimen>
+</resources>
+
+

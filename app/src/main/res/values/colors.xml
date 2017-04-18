@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1eba50</color>
+    <color name="colorPrimaryDark">#1eba50</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="navigation_checked_news_text_color">#FF4E3E80</color>
+    <color name="navigation_checked_picture_text_color">#FFBA4A49</color>
+    <color name="navigation_checked_video_text_color">#FFF16022</color>
+    <color name="navigation_checked_music_text_color">#FF14BF81</color>
+    <color name="navigation_checked_favor_text_color">#FFE1C247</color>
+
+    <color name="common_list_smart_tab_underline_color">#FFF24B17</color>
+
+    <color name="list_item_news_list_source_color">#FF999999</color>
+    <color name="list_item_news_list_date_color">#FFF58C47</color>
+
+    <color name="common_list_item_bg_pressed_color">#FFEEEEEE</color>
+    <color name="common_list_item_bg_normal_color">#FFFEFEFE</color>
+
+    <color name="music_player_sb_bg">#FFFFE4D9</color>
+    <color name="music_player_sb_progress_color">#FFE64626</color>
+    <color name="music_player_sb_secondary_progress_color">#FFE87F6A</color>
+    <color name="music_player_user_name_color">#FF1A7BE8</color>
+
+    <color name="player_container_bg">#FFDDDDDD</color>
+
+    <color name="list_bg">#FFDDDDDD</color>
+
+    <color name="gif_hint_bg">#099ff0</color>
+    <color name="head_icon_border_color">#e11313</color>
+    <color name="gray">#66000000</color>
+    <color name="deep_gray">#77000000</color>
+    <color name="red">#ff0000</color>
+
+    <color name="view_pager_background">#EEEEEE</color>
+    <color name="setting_bg" >#1eba50</color>
+    <color name="setting_ripple">#1eba50</color>
+    <color name="drawer_text">#212121</color>
+</resources>
