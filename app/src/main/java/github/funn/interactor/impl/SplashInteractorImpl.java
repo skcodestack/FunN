@@ -18,7 +18,7 @@ public class SplashInteractorImpl implements SplashInteractor {
 
     @Override
     public int getBackgroundImageResID() {
-        return R.drawable.splash_night;
+        return R.drawable.splash_load;
     }
 
     @Override
