@@ -73,9 +73,9 @@
 - [SuperToasts ](https://github.com/JohnPersano/SuperToasts)
 - [material-ripple](https://github.com/balysv/material-ripple)
 - [Material](https://github.com/rey5137/material)
-- 等
 
 
+<br>
 ## 数据来源
 
 应该有很多人都关心数据来源吧！这里我要说下：<br>
@@ -83,6 +83,8 @@
 数据是自己爬的（python 写的），至于爬的那些网站和具体的内容，就不多说了，下面是爬虫下载地址，有兴趣的可以下载下来看看：
 
 - [python_fun](https://github.com/skcodestack/python_fun)
+
+<br>
 
 ## 接口
 
