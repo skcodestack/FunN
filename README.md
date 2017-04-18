@@ -99,6 +99,7 @@
 - 服务器集群(nginx+tomcat)
 - 文件分布式存储，准备使用taobao的fastDFS
 - 对redis进行优化
+- 对mysql进行优化（比如读写分离等）
 
 
 
